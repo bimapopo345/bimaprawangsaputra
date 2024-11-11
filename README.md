@@ -1,8 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGu8Ssm-NKIvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726453372980?e=1736985600&v=beta&t=zc2miwjy-ynSSHMMMNrFDHoQpGZvMPhwq-tGy7zaNec)]([https://rishavchanda.io](https://www.linkedin.com/in/bimaprawangsaputra/))
 
 <h1 align="center">Hi 👋, I'm Bima Prawang Saputra</h1>
 <h3 align="center">A passionate FullStack developer from Indonesia</h3>
-![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"> -->
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimapopo345&label=Profile%20views&color=0e75b6&style=flat" alt="bimapopo345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimapopo345" alt="bimapopo345" /></a> </p>
